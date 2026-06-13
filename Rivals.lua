@@ -37,7 +37,7 @@ local NO_HOOK = {
 	"SIG___index-__newinxex-next-tostring-math-ipairs-unpack-%*_UrA_Paster_nn-getmetatable-coroutine-setmetatable-workspace-type-__newindex-__len-__tostring-random-Name-UserId-yield-GetPlayers-insert-clone-GetServerTimeNow-format-wrap-buffer",
 	"SIG___newindex-__index-debug-info-math-random-rawset-__tostring-__len-rawget-create-resume-setmetatable-getmetatable-coroutine-newproxy",
 	--"SIG___tostring-__index-newproxy-getmetatable",
-	"SIG___index-math-random-rawset-__newindex-__tostring-__len-rawget-getmetatable-setmetatable-newproxy"
+	--"SIG___index-math-random-rawset-__newindex-__tostring-__len-rawget-getmetatable-setmetatable-newproxy"
 }
 
 return BLACKLIST, NO_HOOK
